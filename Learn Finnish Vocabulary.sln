@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learn Finnish Vocabulary.CSharp.Plugins", "Learn Finnish Vocabulary.CSharp.Plugins.csproj", "{430C6044-0B76-E34E-9935-6F6E13C0F9F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learn Finnish Vocabulary.CSharp", "Learn Finnish Vocabulary.CSharp.csproj", "{00A3E4B6-260A-1111-290F-5672B25315B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learn Finnish Vocabulary.CSharp.Editor", "Learn Finnish Vocabulary.CSharp.Editor.csproj", "{7A07AC63-2EE4-68B1-759B-D3FF0AC38DBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{430C6044-0B76-E34E-9935-6F6E13C0F9F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{430C6044-0B76-E34E-9935-6F6E13C0F9F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{430C6044-0B76-E34E-9935-6F6E13C0F9F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{430C6044-0B76-E34E-9935-6F6E13C0F9F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00A3E4B6-260A-1111-290F-5672B25315B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A3E4B6-260A-1111-290F-5672B25315B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A3E4B6-260A-1111-290F-5672B25315B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A3E4B6-260A-1111-290F-5672B25315B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A07AC63-2EE4-68B1-759B-D3FF0AC38DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A07AC63-2EE4-68B1-759B-D3FF0AC38DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A07AC63-2EE4-68B1-759B-D3FF0AC38DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A07AC63-2EE4-68B1-759B-D3FF0AC38DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
